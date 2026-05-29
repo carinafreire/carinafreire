@@ -11,4 +11,5 @@ Utilizo este GitHub para compartilhar estudos, exercícios e projetos que regist
 ## Contato
 
 E-mail: carinafreire.m@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/carina-freire/
